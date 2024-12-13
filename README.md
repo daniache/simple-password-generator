@@ -43,6 +43,8 @@ Python 3.10 or higher in any Python-based IDE (used Thoony) and standard python 
 
 SIMPLE RANDOM PASSWORD GENERATOR WITH GUI
 
+![Simple-passgenerator IMAGE](https://github.com/user-attachments/assets/97853682-8ccd-49a1-a85c-f4997d42f04a)
+
 This application compared to the previous one allows users to generate a secure password through a user-friendly interface. 
 The user inputs the desired number of letters, symbols, and numbers, and the application generates a random password accordingly. 
 Additionally, it displays the password's strength and provides a button to copy the password to the clipboard. 
