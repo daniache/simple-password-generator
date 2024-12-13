@@ -70,9 +70,9 @@ Technoligies used:
 Python 
 Python Standard Library:
 
-    random: Used to randomly select characters for password generation.
-    tkinter: A built-in Python library used to create the graphical interface.
-    pyperclip: A library used to copy the generated password to the clipboard.
+- random: Used to randomly select characters for password generation.
+- tkinter: A built-in Python library used to create the graphical interface.
+- pyperclip: A library used to copy the generated password to the clipboard.
 	
 HOW TO INVOKE THE SIMPLE RANDOM PASSWORD APP (WITH GUI)
 
